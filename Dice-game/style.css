@@ -1,0 +1,41 @@
+#container{
+
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background: linear-gradient(90deg,rgb(239, 214, 193),rgba(238, 228, 171, 0.7))
+
+}
+label{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#tb{
+    text-align: center;
+    font-size: 2rem;
+    width: 10rem;
+}
+button{
+    font-size: 1.5rem;
+    background-color: hsl(216, 94%, 66%);
+    color: white;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: hsl(216, 87%, 47%);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.6);
+}
+#diceimages img{
+    width: 100px;
+    height: 100px;
+    
+}
+body{
+    background-image: url('/dim/back.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    min-height: 100vh; 
+    margin: 0;
+}
