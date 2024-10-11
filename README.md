@@ -45,6 +45,8 @@ The project consists of three main files:
 - Handles the core functionality of rolling dice.
 - Listens for button click events to roll a specified number of dice.
 - Generates random numbers between 1 and 6, updates the text content and the dice images.
+When you open the application, the app will display something like:
+![Dice Example](https://github.com/suhas-m-v/RollTheDice/blob/f8ebd051585be849ef4ea7e40af398aeb73c0d23/Screenshot%202024-10-08%20231125.png)
 
 ## Future Improvements
 - Add more customization options for the dice (e.g., different color schemes or dice with more sides).
